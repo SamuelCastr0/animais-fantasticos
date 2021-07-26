@@ -33,7 +33,6 @@ export default function fetchAnimais(url, target) {
       animaisJSON.forEach(animal => preencherAnimais(animal));
 
       animaAnimaisNumeros();
-
     } catch (erro) {
       console.log(erro);
     }
