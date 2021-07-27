@@ -1,13 +1,11 @@
 {
-    "extends": "airbnb-base",
-    "env": {
-        "browser": true
-    },
-    "rules": {
-        "no-param-reassign": 0,
-        "import/extensions": 0,
-        "no-console": 0
-        // "no-tabs": 0,
-        // "ident": 0,
-    }
+  "extends": "airbnb-base",
+  "env": {
+    "browser": true
+  },
+  "rules": {
+    "no-param-reassign": 0,
+    "import/extensions": 0,
+    "no-console": 0
+  }
 }
