@@ -40,5 +40,4 @@ console.log(funcionamento);
 funcionamento.init();
 
 fetchAnimais('./animaisapi.json', '.numeros-grid');
-
 fetchBitcoin('https://blockchain.info/ticker', '.btc-preco');
